@@ -25,17 +25,18 @@ Pneumonia diagnosis via chest X-rays can be time-consuming and prone to human va
 **Source:** Kaggle – *Chest X-Ray Images (Pneumonia)*  
 **Total Images:** 5,863  
 
-Dataset structure:
+## Dataset Structure
 
-train/
-NORMAL/
-PNEUMONIA/
-val/
-NORMAL/
-PNEUMONIA/
-test/
-NORMAL/
-PNEUMONIA/
+dataset/
+├── train/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
+├── val/
+│   ├── NORMAL/
+│   └── PNEUMONIA/
+└── test/
+    ├── NORMAL/
+    └── PNEUMONIA/
 
 
 **Image characteristics:**
