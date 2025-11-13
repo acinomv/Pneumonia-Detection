@@ -94,7 +94,10 @@ The model was refined iteratively through:
 | **Recall** | 0.98 |
 | **F1 Score** | 0.86 |
 
-### **Classification Report**
+
+## Classification Report
+
+```
 
               precision    recall  f1-score   support
 
@@ -105,6 +108,8 @@ The model was refined iteratively through:
    macro avg       0.86      0.74      0.76       624
 weighted avg       0.84      0.80      0.78       624
 
+
+```
 
 ### Interpretation  
 - **High Recall (0.98):** The model detects nearly all pneumonia cases — crucial for minimizing false negatives in clinical settings.  
