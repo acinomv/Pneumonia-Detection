@@ -28,15 +28,15 @@ Pneumonia diagnosis via chest X-rays can be time-consuming and prone to human va
 ## Dataset Structure
 
 dataset/
-├── train/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
-├── val/
-│   ├── NORMAL/
-│   └── PNEUMONIA/
-└── test/
-    ├── NORMAL/
-    └── PNEUMONIA/
+  train/
+    NORMAL/
+    PNEUMONIA/
+  val/
+    NORMAL/
+    PNEUMONIA/
+  test/
+    NORMAL/
+    PNEUMONIA/
 
 
 **Image characteristics:**
